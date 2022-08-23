@@ -1,0 +1,36 @@
+.nav-container {
+  width: auto;
+  height: 50px;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+}
+
+.nav-container ul {
+  display: inline;
+}
+
+.nav-container ul li {
+    font: bold 12px/18px sans-serif;
+    display: inline-block;
+    margin-left: -5px;
+    position: relative;
+    padding: 15px  20px;
+}
+
+.nav-container img {
+  float: left;
+  padding-left: 10px;
+}
+
+nav a {
+  color: #6C9000;
+  text-decoration: none;
+}
+
+header {
+  text-align: right;
+}
+
+nav {
+  padding-bottom: 30px;
+}
